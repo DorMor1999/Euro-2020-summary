@@ -1,0 +1,23 @@
+.Main {
+    color: white;
+    text-align: center;
+    background-size: cover;
+    background-image: url(https://res.feednews.com/assets/v2/c1bf7b0954eb41e62e4b2866cdd14880?width=1280&height=720&quality=hq&category=us_News_Sports.Soccer) ;
+}
+#F{
+    text-align: center;
+}
+#Upfooter{
+    background-color: #0082e6;
+    color: white;
+}
+.accordion{
+    min-width: 450px;
+}
+body{
+    min-width: 768px;
+}
+img{
+    max-height: 480px;
+}
+
